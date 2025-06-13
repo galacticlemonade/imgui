@@ -7,7 +7,7 @@ project "ImGui"
 	
 	files
 	{
-		"imconfig.h,
+		"imconfig.h",
 		"imgui.h",
 		"imgui.cpp",
 		"imgui_draw.cpp",
